@@ -32,14 +32,14 @@
         android:title="@string/privacy_policy">
         <intent
             android:action="android.intent.action.VIEW"
-            android:data="https://github.com/rkkr/simple-keyboard/blob/master/PRIVACY.md"
+            android:data="https://github.com/itexpertshire/my-keyboard/blob/ver0.1/PRIVACY.md"
             />
     </Preference>
     <Preference
         android:title="@string/license">
         <intent
             android:action="android.intent.action.VIEW"
-            android:data="https://github.com/rkkr/simple-keyboard/blob/master/LICENSE"
+            android:data="https://github.com/itexpertshire/my-keyboard/blob/ver0.1/LICENSE"
             />
     </Preference>
 </PreferenceScreen>
